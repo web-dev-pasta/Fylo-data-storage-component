@@ -157,8 +157,6 @@ body {
   .card > .box:nth-child(2) .progress span::before {
     display: none;
   }
-  .card > .box:nth-child(2) .progress span {
-  }
   .card > .box:nth-child(2) .progress {
     position: static;
   }
